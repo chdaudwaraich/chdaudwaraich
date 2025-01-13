@@ -38,7 +38,7 @@
 
 <p>&nbsp;</p>
 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chdaudwaraich&hide_border=true&theme=slateorange" alt="ahmadmasood" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chdaudwaraich&hide_border=true&theme=slateorange" alt="daudmukhtar" />
  
 </p>
 <p>&nbsp;</p>
