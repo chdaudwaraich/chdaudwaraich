@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React-js, JavaScript**
 
-- 📫 How to reach me **ahmadmasood.dev@gmail.com**
+- 📫 How to reach me **chdaudwaraich@gmail.com**
 
 - ⚡ Fun fact **Learning New Things**
 
